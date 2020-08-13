@@ -1,6 +1,6 @@
 # SLACK
 
 ## Live Deployed APP:
-https://slack-clone-172b8.firebaseapp.com/ - VERSION 1 </br>
+https://slack-clone-172b8.firebaseapp.com/ ---------- Production Build V1 </br>
 
-## Technology stack: React / Firebase / Material UI
+ warning: Please dont Create Mess With Public Chat
